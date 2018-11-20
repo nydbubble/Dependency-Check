@@ -103,9 +103,8 @@
         <!-- https://mvnrepository.com/artifact/org.apache.tika/tika -->
         <dependency>
             <groupId>org.apache.tika</groupId>
-            <artifactId>tika</artifactId>
+            <artifactId>tika-core</artifactId>
             <version>1.17</version>
-            <type>pom</type>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.struts/struts2-core -->
